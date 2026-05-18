@@ -1,6 +1,11 @@
-<p align="right"><code>// business analytics · operations management · university of cincinnati</code></p>
+<p align="right"><code>// Business Analytics · Operations Management · University of Cincinnati</code></p>
 
-# Hi, I'm Helena Luong <sub><img src="https://img.shields.io/badge/open_to_co--op-E1F5EE?style=flat-square&logoColor=085041" alt="Open to Co-op"></sub>
+<p align="left">
+  <a href="https://github.com/HelenaLuong">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=420D09&background=FAF8F400&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Helena+Luong" alt="Typing Animation" />
+  </a>
+  <sub><img src="https://img.shields.io/badge/open_to_co--op-E1F5EE?style=flat-square&logoColor=085041" alt="Open to Co-op" valign="middle"></sub>
+</p>
 
 ### **4.00 GPA** · **Double Majors** · **Data → Decisions**
 
@@ -12,7 +17,7 @@
 
 I'm a double-major senior at the **University of Cincinnati** studying Business Analytics and Operations Management. I turn complex data into decisions that matter - from optimizing flight networks for **Cayman Airways** to querying **2M+ transactions** in an 84.51° competition.
 
-Looking for a Co-op in **Operations**, **Business Analytics**, or **Business Intelligence / AI** where analytical rigor meets real operational problems.
+I'm looking for a Co-op in **Operations**, **Business Analytics**, or **Business Intelligence / AI** where analytical rigor meets real operational problems.
 
 ---
 
@@ -34,9 +39,9 @@ Looking for a Co-op in **Operations**, **Business Analytics**, or **Business Int
 
 ### 🕒 Currently
 
-* 🔵 **Undergraduate Research Assistant** · *Lindner College of Business* — analyzing survey & archival datasets using SPSS and Excel
-* 🟢 **Project Analyst** · *Neo Initiative* — building Tableau dashboards to surface inefficiencies for local businesses
-* 🔴 **VP of Marketing** · *Project Management Club* — leading strategy and PMI partnership communications
+* 🔵 **Undergraduate Research Assistant** · *Lindner College of Business* - analyzing survey & archival datasets using SPSS and Excel
+* 🟢 **Project Analyst** · *Neo Initiative* - building Tableau dashboards to surface inefficiencies for local businesses
+* 🔴 **VP of Marketing** · *Project Management Club* - leading strategy and PMI partnership communications
 
 ---
 
@@ -48,12 +53,5 @@ Analyzed operational data to identify inefficiencies in demand and flight networ
 
 #### 🛒 84.51° Case Study Competition | `Feb – Mar 2026`
 Queried and analyzed 2M+ transactions across 57,000 households. Delivered strategic recommendations that earned top recognition from 84.51° judges.
-> **Tech Stack:** `SQL` · `Tableau` · `Strategic Analysis` · `Data Visualization`
+> **Tech Stack:** `SQL` · `Tableau` · `Strategic Analysis` · `Data Visualization` · `Exel (Advanced)`
 
----
-
-### 🤝 Connect
-<p align="left">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-FFF5F0?style=large&logo=gmail&logoColor=993C1D"/></a> &nbsp;
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-FFF5F0?style=large&logo=linkedin&logoColor=993C1D"/></a>
-</p>
