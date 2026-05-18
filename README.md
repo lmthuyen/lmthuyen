@@ -4,7 +4,6 @@
   <a href="https://github.com/HelenaLuong">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=420D09&background=FAF8F400&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Helena+Luong" alt="Typing Animation" />
   </a>
-  <sub><img src="https://img.shields.io/badge/open_to_co--op-E1F5EE?style=flat-square&logoColor=085041" alt="Open to Co-op" valign="middle"></sub>
 </p>
 
 ### **4.00 GPA** · **Double Majors** · **Data → Decisions**
